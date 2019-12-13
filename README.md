@@ -100,3 +100,9 @@ covers the necessary basics of Git usage.
 - :open_book: A comprehensive and free [Git book](https://git-scm.com/book/en/v2)
 - :lollipop: [.gitignore generator](http://gitignore.io/)
 - :lollipop: [Lorem Ipsum generator](https://loremipsum.io/)
+
+
+## Acceptance review
+
+You will need this only at review time, **after** completing the project.
+[Use this form](https://forms.gle/yiroADk11mSN1eF96) to record the review you provide for your peer.
